@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Mai&display=swap');
+:root{
+    --cor-principal:#6E859F;
+    --cor-secundaria:#284260;
+    --cor-destaque:#C92BFC;
+    
+}
+
+body{
+    font-family: 'Chakra petch', sans-serif;
+}
+
+h1, h2,
